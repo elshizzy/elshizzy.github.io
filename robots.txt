@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://elshizzy.github.io/sitemap.xml 
