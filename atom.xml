@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://elshizzy.github.io/atom.xml" rel="self"/>
   <link href="http://elshizzy.github.io/"/>
-  <updated>2013-11-25T14:57:41-05:00</updated>
+  <updated>2013-11-25T15:09:10-05:00</updated>
   <id>http://elshizzy.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Learning Ruby]]></title>
+    <link href="http://elshizzy.github.io/blog/2013/11/25/learning-ruby/"/>
+    <updated>2013-11-25T15:03:41-05:00</updated>
+    <id>http://elshizzy.github.io/blog/2013/11/25/learning-ruby</id>
+    <content type="html"><![CDATA[<p>Now that I finally have this blog working, I&rsquo;m updating with my feelings on the class so far. I&rsquo;m learning a great deal and what we&rsquo;ve touched on in Ruby thus far has been quite logical and straightforward thus far. The testing files when trying to write code have been a huge help, and it seems like being good at creating testing files is a great way to be able to be sure that the code you have written successfully does all of the different things that you want it to. I imagine practice makes perfect in that regard.</p>
+
+<p>Finally, GIT. There are times where Git is still throwing me off, but it is comforting to hear from Eric that it takes developers a long time to get comfortable with Git, and there are even some good developers who are still not comfortable with it. Again, I think simply having to repeatedly do the various tasks that I would need to in it, will allow me to breed some familiarity and at least get to a place where certain everyday tasks become automatic.</p>
+
+<p>My biggest remaining confusion centers around submitting the HW. My understanding of a push was me pushing something from my computer up to github so it and my local directory have the same files. A pull allows me to bring down changes to a repository that were made elsewhere and have them live on my local computer. When we are submitting the HW, however, we are &ldquo;pulling&rdquo; from my repository into the class repository, a confusing use of the word as I had associated pull with GitHub to local computer and not from one repository to another. I look forward to seeing how to do that.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My First Octopress Post]]></title>
